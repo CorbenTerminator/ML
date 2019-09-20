@@ -1,6 +1,6 @@
 # Файл для тестирования установки
 #%matplotlib inline # закоментируйте строку если будете запускать код в pycharm
-print('My new work')
+
 
 from mpl_toolkits.mplot3d import axes3d
 import matplotlib.pyplot as plt
